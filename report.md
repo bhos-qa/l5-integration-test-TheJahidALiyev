@@ -22,4 +22,4 @@ Then, I ran the following commands and they were successful for running and test
 ./gradlew test
 ```
 Lastly, running the all tests and they successfully passed.
-![Test Result](C:\Users\acer\Desktop\2022-10-09 20_50_01-Window.png)
+![Test Result]()
