@@ -22,4 +22,4 @@ Then, I ran the following commands and they were successful for running and test
 ./gradlew test
 ```
 Lastly, running the all tests and they successfully passed.
-![Test Result]()
+![Test Result](https://github.com/bhos-qa/l5-integration-test-TheJahidALiyev/blob/feature/lab5/web/2022-10-09%2020_50_01-Window.png)
